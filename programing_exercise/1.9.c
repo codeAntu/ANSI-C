@@ -1,5 +1,6 @@
 #include<stdio.h>
-/*calculate the radius of a circle */
+
+
 float cToF(int temp) {
     /* Celsius to Fahrenheit */
     float f;
