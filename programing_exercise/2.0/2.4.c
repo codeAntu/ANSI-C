@@ -9,7 +9,7 @@ int main() {
     scanf("%d",&a);
     scanf("%d",&b);
 
-    ans = a / b;
+    ans = (a * 1.0)/ b;
 
     printf("%d / %d = %f ",a,b,ans);
 
